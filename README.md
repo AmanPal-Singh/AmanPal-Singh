@@ -1,9 +1,10 @@
 
 <h2> Hey there! I'm Aman.</h2>
 
-I'm a Computer Science major at the University of Waterloo with a passion for full stack development, mobile development, machine learning and robotics! 
+I'm a Computer Science major at the University of Waterloo with a passion for full stack development, mobile development, machine learning and robotics! I've previously interned at Ford, Deloitte, & Maple Leaf Foods working on full stack development, natural language process, and data science. Apart from technology, I love cycling, rock climbing, photography, and design!
 
-<h3>🛠 Technologies I've Worked With </h3>
+
+<h3>🛠 Technologies I'm Experienced With! </h3>
 
 - 💻 &nbsp; Python | JavaScript | C | C++ | Java | TypeScript
 - 🌐 &nbsp; Node.js | Flask | Django | Express | React | Spring
