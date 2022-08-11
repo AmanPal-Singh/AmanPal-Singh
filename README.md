@@ -16,7 +16,7 @@ I'm a Computer Science major at the University of Waterloo with a passion for fu
 
 ## 📫 Contact Me!
 - LinkedIn - [Aman Singh](https://www.linkedin.com/in/aman-pal-singh/)
-- Email - [amanpal_singh   (at)   outlook.com](amanpal_singh@outlook.com)
+- Email - amanpal_singh   (at)   outlook.com
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
