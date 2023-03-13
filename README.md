@@ -11,7 +11,7 @@ I'm a Computer Science major at the University of Waterloo with a passion for fu
 - :iphone: &nbsp; React Native | Swift
 - 🛢 &nbsp; PostgreSQL | mySQL |  MongoDB 
 - :cloud: &nbsp; Firebase | Azure | AWS | Openshift
-- 🔧 &nbsp; Git | Bash | Docker | Kubenertes
+- 🔧 &nbsp; Git | Bash | Docker | Kubernetes
 
 
 ## 📫 Contact Me!
